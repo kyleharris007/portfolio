@@ -1,38 +1,81 @@
 .App {
   text-align: center;
+  background-image: url("https://wallpaperaccess.com/full/670445.jpg");
+  color: aqua;
+  font-family: 'Courier New', monospace;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.kyle-photo {
+  width: 15%;
+  height: 15%;
+  margin-top: 20px;
+  border-radius: 50%;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.name-item {
+  font-size: 50px;
+  font-weight: bold;
+  margin-top: 20px;
+  color: rgb(23, 101, 246);
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.sub-about-me {
+  font-size: 20px;
+}
+
+.about-me, .software-title, .projects-title, .socials-title, .contact-title {
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  color: rgb(23, 101, 246);
+}
+
+.project-links {
   display: flex;
-  flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  margin-top:10px;
 }
 
-.App-link {
-  color: #61dafb;
+.drinkhub-image {
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.youandmeme-image {
+  width: 50px;
+  height: 50px;
+}
+
+.hangman-image {
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+}
+
+.linkedin-image {
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+}
+
+.github-image {
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+}
+
+.resume-image {
+  width: 50px;
+  height: 50px;
+}
+
+.social-links {
+  display: flex;
+  justify-content: center;
+}
+
+.software-list {
+  justify-content: center;
 }
