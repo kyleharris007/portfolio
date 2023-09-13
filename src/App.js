@@ -4,7 +4,7 @@ function App() {
   return (
     <div class="App">
 
-          <img class="kyle-photo" src="https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/353394497_9548877921850468_2075302601223715098_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=0TMDSvt6bP8AX8sdORn&_nc_ht=scontent-lga3-1.xx&oh=00_AfAM0PFK9sUFfrPUowoyI7ZvnTghkTdoA-nQDLJPZ-AhfQ&oe=65046C63" alt="kyle-photo"></img>
+          <img class="kyle-photo" src="https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/353394497_9548877921850468_2075302601223715098_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=0TMDSvt6bP8AX8sdORn&_nc_ht=scontent-lga3-1.xx&oh=00_AfAM0PFK9sUFfrPUowoyI7ZvnTghkTdoA-nQDLJPZ-AhfQ&oe=65046C63" alt="kyle"></img>
           <div class="name-item">Kyle Harris</div>
 
           <br></br>
